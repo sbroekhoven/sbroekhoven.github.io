@@ -16,6 +16,15 @@ markup:
   highlight:
     noClasses: false
 
+defaultContentLanguage: en
+languages:
+  en:
+    languageName: English
+    weight: 1
+  nl:
+    languageName: Nederlands
+    weight: 2
+
 menu:
   main:
     - name: Docs
