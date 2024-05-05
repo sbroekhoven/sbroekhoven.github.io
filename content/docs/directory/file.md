@@ -1,5 +1,5 @@
 ---
-title: This is a marcdown file
+title: This is a markdown file
 type: docs
 ---
 
