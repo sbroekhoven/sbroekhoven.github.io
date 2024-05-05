@@ -2,12 +2,9 @@
 title: Markdown Syntax Guide
 date: 2020-01-01
 authors:
-  - name: imfing
-    link: https://github.com/imfing
-    image: https://github.com/imfing.png
-  - name: Octocat
-    link: https://github.com/octocat
-    image: https://github.com/octocat.png
+  - name: sbroekhoven
+    link: https://github.com/sbroekhoven
+    image: https://github.com/sbroekhoven.png
 tags:
   - Markdown
   - Example
