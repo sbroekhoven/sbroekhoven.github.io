@@ -30,7 +30,7 @@ endLevel = 3
 lineNos = true
 lineNumbersInTable = false
 noClasses = true
-style = "catppuccin-mocha"
+style = "github-dark"
 
 [params]
 title = "Sebastian Broekhoven"
