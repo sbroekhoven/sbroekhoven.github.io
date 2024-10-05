@@ -1,9 +1,9 @@
 # Basic config
-baseURL = "https://maolonglong.github.io/hugo-simple-starter"
+baseURL = "https://sbroekhoven.github.io"
 theme = "hugo-simple"
-languageCode = "en"                # zh-Hans
-title = "Hugo Simple"
-copyright = "© 2024 Shaolong Chen"
+languageCode = "en"
+title = "Sebastian Broekhoven"
+copyright = "© 2024 Sebastian Broekhoven"
 
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
@@ -33,15 +33,15 @@ noClasses = true
 style = "catppuccin-mocha"
 
 [params]
-title = "Hugo Simple"
-description = "Hugo Simple Demo"
+title = "Sebastian Broekhoven"
+description = "Sebastian Broekhoven's page at github.io"
 favicon = "images/favicon.png"
 dateFormat = "2006-01-02"
 hideMadeWithLine = false
 hideRSSLink = false
 [params.author]
-name = "Shaolong Chen"
-email = "shaolong.chen@outlook.it"
+name = "Sebastian Broekhoven"
+email = "my address"
 
 [[menu.main]]
 name = "Home"
