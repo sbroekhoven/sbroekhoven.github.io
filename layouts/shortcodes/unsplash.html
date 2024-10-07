@@ -1,0 +1,12 @@
+<!-- image -->
+<figure class="figure mt-2">
+<img src="{{ .Get "src" }}" alt="{{ .Get "src" }}" class="img-fluid"/>
+<figcaption class="figure-caption p-2 text-center text-dark">
+    Photo by <a href="https://unsplash.com/@{{ with .Get "ususer" }}{{ . }}{{ end }}" class="link-secondary">{{ with .Get "usname" }} {{ . }}{{ end }}</a>
+    on <a href="{{ with .Get "usurl" }} {{ . }}{{ end }}" class="link-secondary">Unsplash</a>
+</figcaption>
+</figure>
+<!-- image -->
+
+
+

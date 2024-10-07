@@ -1,0 +1,5 @@
+<div class="alert alert-warning" role="alert">
+    {{ with .Inner}}
+    {{ . | markdownify}}
+    {{ end}}
+</div>
